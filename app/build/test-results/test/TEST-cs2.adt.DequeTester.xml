@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cs2.adt.DequeTester" tests="11" skipped="0" failures="0" errors="0" timestamp="2024-04-25T21:11:52" hostname="LAPTOP" time="0.047">
+  <properties/>
+  <testcase name="testExceptionBack()" classname="cs2.adt.DequeTester" time="0.021"/>
+  <testcase name="testOnceBack()" classname="cs2.adt.DequeTester" time="0.004"/>
+  <testcase name="testBackMult()" classname="cs2.adt.DequeTester" time="0.001"/>
+  <testcase name="testMix()" classname="cs2.adt.DequeTester" time="0.0"/>
+  <testcase name="testExceptionFront()" classname="cs2.adt.DequeTester" time="0.001"/>
+  <testcase name="testTwiceBack()" classname="cs2.adt.DequeTester" time="0.001"/>
+  <testcase name="testExceptionPeekFront()" classname="cs2.adt.DequeTester" time="0.001"/>
+  <testcase name="testFrontMult()" classname="cs2.adt.DequeTester" time="0.001"/>
+  <testcase name="testTwiceFront()" classname="cs2.adt.DequeTester" time="0.001"/>
+  <testcase name="testOnceFront()" classname="cs2.adt.DequeTester" time="0.001"/>
+  <testcase name="testExceptionPeekBack()" classname="cs2.adt.DequeTester" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
