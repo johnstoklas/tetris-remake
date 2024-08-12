@@ -1,1 +1,1 @@
-# Template for Space Game assignment
+A remake of Tetris implementing JavaFX.
